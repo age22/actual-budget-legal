@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1">
+  <title>Terms of Service - Actual Budget Personal</title>
+</head>
+<body>
+  <h1>Terms of Service</h1>
+  <p>Last updated: 9 October 2026</p>
+
+  <h2>Application</h2>
+  <p>
+    Actual Budget Personal is a self-hosted
+    budgeting application operated exclusively
+    for personal, non-commercial use.
+  </p>
+
+  <h2>Authorized use</h2>
+  <p>
+    The application is used only by its owner
+    to manage personal finances and access
+    bank accounts belonging to that owner.
+  </p>
+
+  <h2>Bank connectivity</h2>
+  <p>
+    Banking information is accessed through
+    Enable Banking, subject to authorization
+    and the applicable terms of the banking
+    service providers.
+  </p>
+
+  <h2>No public service</h2>
+  <p>
+    This application is not offered to the
+    public, does not provide financial advice,
+    and does not operate as a commercial
+    financial service.
+  </p>
+
+  <h2>Availability</h2>
+  <p>
+    The application is privately maintained.
+    Continuous availability and uninterrupted
+    bank connectivity are not guaranteed.
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    Questions concerning this application
+    may be directed to the contact email
+    registered in Enable Banking.
+  </p>
+</body>
+</html>
